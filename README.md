@@ -82,6 +82,7 @@ Each row represents a single booking, and each column represents a specific book
   - Page 2: Flight Duration Analysis  
 
 ---
+![Dashboard Preview](https://github.com/Saijal-choudhary/Flight-Booking-Data-Analysis/blob/main/Snapshots/PART%201.png)
 ## 5️⃣ Results / Key Insights
 
 - Generated a total revenue of approximately **$0.64M** from 250 bookings.  
