@@ -5,7 +5,11 @@
 This Power BI dashboard provides a comprehensive analysis of flight booking and travel data to uncover insights related to ticket pricing, passenger demographics, flight duration, and payment behavior. It helps identify booking trends, revenue drivers, and operational patterns to support data-driven airline business decisions.
 
 ---
+## 📌 Project Objective
 
+To analyze flight booking patterns, understand revenue distribution, and evaluate flight duration behavior using interactive visual analytics in Power BI.
+
+---
 ## 2️⃣ Tech Stack
 
 - 📊**Power BI Desktop** – Dashboard development & visualization  
@@ -95,10 +99,6 @@ Each row represents a single booking, and each column represents a specific book
 
 ---
 
-## 📌 Project Objective
 
-To analyze flight booking patterns, understand revenue distribution, and evaluate flight duration behavior using interactive visual analytics in Power BI.
-
----
 
 ⭐ If you found this project interesting, feel free to connect or provide feedback!
