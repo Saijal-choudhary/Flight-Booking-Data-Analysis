@@ -1,5 +1,6 @@
 # ✈️ Flight Booking & Travel Data Analysis Dashboard (Power BI)
-![Dashboard Preview](https://github.com/Saijal-choudhary/Flight-Booking-Data-Analysis/blob/main/Snapshots/PART%201.png)
+![Dashboard 1](https://github.com/Saijal-choudhary/Flight-Booking-Data-Analysis/blob/main/Snapshots/PART%201.png)
+![Dashboard 2](https://github.com/Saijal-choudhary/Flight-Booking-Data-Analysis/blob/main/Snapshots/PART%202.png)
 ## 1️⃣ Short Description
 
 This Power BI dashboard provides a comprehensive analysis of flight booking and travel data to uncover insights related to ticket pricing, passenger demographics, flight duration, and payment behavior. It helps identify booking trends, revenue drivers, and operational patterns to support data-driven airline business decisions.
